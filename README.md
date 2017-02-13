@@ -13,8 +13,8 @@ Zappos Coding Challenge
 
 ###Screenshots/UI
 ![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/1.PNG)
-![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/2.png)
-![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/3.png)
+![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/2.PNG)
+![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/3.PNG)
 
 ######I tried to follow the Material Design pattern in available time.
 
