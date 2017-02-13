@@ -12,9 +12,9 @@ Zappos Coding Challenge
 ######I created three main packages: Model, View and ViewModel.
 
 ###Screenshots/UI
-![alt tag](https://github.com/nilamdeka23/ILoveZappos/tree/master/screenshots/1.png)
-![alt tag](https://github.com/nilamdeka23/ILoveZappos/tree/master/screenshots/2.png)
-![alt tag](https://github.com/nilamdeka23/ILoveZappos/tree/master/screenshots/3.png)
+![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/1.PNG)
+![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/2.png)
+![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/3.png)
 
 ######I tried to follow the Material Design pattern in available time.
 
