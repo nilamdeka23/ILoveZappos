@@ -8,14 +8,13 @@ Zappos Coding Challenge
 4. The "Add to Cart", floating action button animates to inform the user a product is added.
 
 ###Implementation Details
-######To maintain a good quality of code, I decided to use the upcoming MVVM architectural pattern 
-######I created three main packages: Model, View and ViewModel.
+To maintain a good quality of code, I have used the upcoming MVVM architectural pattern 
+I created three main packages: Model, View and ViewModel.
 
 ###Screenshots/UI
 ![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/1.PNG)
 ![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/2.PNG)
 ![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/3.PNG)
-
 ######I tried to follow the Material Design pattern in available time.
 
 ###Major Libraries used
