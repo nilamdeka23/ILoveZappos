@@ -9,7 +9,7 @@ Zappos Coding Challenge
 3. Parses the response and displays the first product in a CardView
 4. The "Add to Cart", floating action button animates to inform the user if a product is added.
 
-###App flow?
+###Application flow
 ![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/ILoveZappos.gif)
 
 
@@ -18,15 +18,14 @@ To maintain a good quality of code, I have used the upcoming MVVM architectural 
 I created three main packages: Model, View and ViewModel.
 
 
-###Additional screenshots/UI
-![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/1.PNG)
-![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/2.PNG)
-![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/3.PNG)
-######I tried to follow the Material Design pattern in available time.
-
-
 ###Major Libraries used
 * **RxJava + RxAndroid**: A way to work asynchronously and maintain the application scalable.
 * **Retrofit** : For consuming Rest API.
 * **Picasso**: For image loading.
 
+
+###Additional screenshots/UI
+![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/1.PNG)
+![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/2.PNG)
+![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/3.PNG)
+######I tried to follow the Material Design pattern in available time.
