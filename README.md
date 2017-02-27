@@ -11,7 +11,8 @@ Zappos Coding Challenge
 
 ###Application flow
 ![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/ILoveZappos.gif)
-
+######I tried to follow the Material Design pattern in available time.
+######One can find additional screenshots [here](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/)
 
 ###Implementation Details
 To maintain a good quality of code, I have used the upcoming MVVM architectural pattern 
@@ -22,10 +23,3 @@ I created three main packages: Model, View and ViewModel.
 * **RxJava + RxAndroid**: A way to work asynchronously and maintain the application scalable.
 * **Retrofit** : For consuming Rest API.
 * **Picasso**: For image loading.
-
-
-###Additional screenshots/UI
-![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/1.PNG)
-![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/2.PNG)
-![alt tag](https://github.com/nilamdeka23/ILoveZappos/blob/master/screenshots/3.PNG)
-######I tried to follow the Material Design pattern in available time.
