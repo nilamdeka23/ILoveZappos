@@ -16,6 +16,7 @@ Zappos Coding Challenge
 
 ###Implementation Details
 To maintain a good quality of code, I have used the upcoming MVVM architectural pattern 
+
 I created three main packages: Model, View and ViewModel.
 
 
